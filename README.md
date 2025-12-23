@@ -1,4 +1,4 @@
-# AI Internship Portfolio
+# 🤖 AI Internship Portfolio 🤖
 * ภาพรวมประสบการณ์ฝึกงานด้าน AI โดยเน้นการนำ AI ไปใช้งานจริงกับข้อมูล ระบบ และแอปพลิเคชัน
 
   This repository provides an overview of my internship experience focused on applied Artificial Intelligence and real-world AI applications.  
