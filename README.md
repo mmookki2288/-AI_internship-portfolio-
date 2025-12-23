@@ -92,6 +92,7 @@ Each project in this repository is organized separately and documented in detail
 
 ## 📌 Notes
 * ข้อมูลบางส่วนถูกปรับเพื่อใช้เป็นพอร์ตโฟลิโอ และไม่เปิดเผยรายละเอียดภายในขององค์กร
+
 This repository is created for portfolio and learning purposes.  
 Some details have been simplified or anonymized.
 
