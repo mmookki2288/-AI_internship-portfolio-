@@ -1,6 +1,7 @@
 # AI Internship Portfolio
 * ภาพรวมประสบการณ์ฝึกงานด้าน AI โดยเน้นการนำ AI ไปใช้งานจริงกับข้อมูล ระบบ และแอปพลิเคชัน
-This repository provides an overview of my internship experience focused on applied Artificial Intelligence and real-world AI applications.  
+
+  This repository provides an overview of my internship experience focused on applied Artificial Intelligence and real-world AI applications.  
 The work involves developing AI solutions, processing data, and integrating models into practical workflows.
 
 
@@ -8,6 +9,7 @@ The work involves developing AI solutions, processing data, and integrating mode
 
 ## 🔍 Overview
 * ระหว่างฝึกงานได้ทำงานด้าน AI หลายรูปแบบ ครอบคลุมข้อมูลภาพ เสียง และข้อมูลเชิงโครงสร้าง
+
 During the internship, I worked on multiple AI-related tasks, including data processing, model implementation, and system integration.  
 The projects cover image processing, audio analysis, and structured data pipelines.
 
@@ -15,6 +17,7 @@ The projects cover image processing, audio analysis, and structured data pipelin
 
 ## 🛠 Tools & Technologies Used
 * ใช้เครื่องมือสำหรับพัฒนา AI ตั้งแต่การเขียนโค้ด การจัดการข้อมูล การใช้งานโมเดลจาก Hugging Face ไปจนถึงการเชื่อมต่อกับระบบองค์กร
+
 ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=mysql)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red?logo=pytorch)
@@ -31,11 +34,13 @@ The projects cover image processing, audio analysis, and structured data pipelin
 
 - 🔤 **EasyOCR**
 * (ใช้สำหรับอ่านและดึงข้อความจากภาพและเอกสาร)
+
   Used for Optical Character Recognition (OCR) to extract text from images and scanned documents.  
 
 
 - 🖼️ **CLIP (Contrastive Language–Image Pretraining)**
 * (ใช้สร้างเวกเตอร์ภาพเพื่อค้นหาและเปรียบเทียบความคล้ายของรูปภาพ) 
+
   Used to generate image embeddings for image similarity search and visual comparison tasks.  
   
 
